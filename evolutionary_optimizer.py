@@ -4,6 +4,7 @@
 # Evolutionary Optimizer
 
 ###############################################################################
+#                                                                             #
 # Driving home from SF today I was thinking about general artificial intelli- #
 # gence, and trying to reconcile thoughts proposed by Superintelligence by    #
 # Nick Bostrom with my understanding of how human intelligence evolved. I was #
@@ -16,6 +17,11 @@
 # the input space) to develop a new kind of optimization technique that is    #
 # highly robust to non-convexity and requires no differentiability in the     #
 # cost function?                                                              #
+#                                                                             #
+# EDIT: Turns out evolutionary optimization is already a pretty developed     #
+# topic. This was still a fun experiment, and a cool way of getting some 1st  #
+# hand experience with it before I start reading literature!                  #
+#                                                                             #
 ###############################################################################
 
 import numpy as np
